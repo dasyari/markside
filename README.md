@@ -1,4 +1,6 @@
-# Markport
+# Markside
+
+Fork from **Markport**
 
 Run Obsidian in a standard browser - no Electron, no native app needed.
 
